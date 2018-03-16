@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11481" started-at="2018-03-16T16:02:05Z" finished-at="2018-03-16T16:02:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11481" started-at="2018-03-16T16:02:05Z" finished-at="2018-03-16T16:02:16Z">
+      <class name="StaleElementTest">
+        <test-method status="PASS" signature="checkStaleElementTest()[pri:0, instance:StaleElementTest@2a5ca609]" name="checkStaleElementTest" duration-ms="11450" started-at="2018-03-16T21:32:05Z" finished-at="2018-03-16T21:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStaleElementTest -->
+      </class> <!-- StaleElementTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
